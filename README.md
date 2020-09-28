@@ -36,3 +36,22 @@ Lista numerada:
 ![Artur Mendes](https://www.google.com.br/logos/google.jpg)
 [Artur Mendes](http://systecdev.com.br)
 
+Num | Nome | Nota |
+---|---|---
+1 | Gustavo | 8,5
+2 | Artur | 10,0
+
+
+Não entendo direito para que serve o `comando document.getElementById()` da linguagem JavaScript.
+Olha meu programa em Java
+```
+private String nome;
+private String end;
+
+if(nome==nome){
+
+}else{
+
+}
+```
+
